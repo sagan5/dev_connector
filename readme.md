@@ -39,3 +39,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 3. Add routes with express router (008)
 
 > Add routes/api files and use express router
+
+## 4. Create User model (009)
+
+> Create User Schema for MongoDB
