@@ -43,3 +43,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 4. Create User model (009)
 
 > Create User Schema for MongoDB
+
+## 5. Add user registration (010)
+
+> Create user registration logic
