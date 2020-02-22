@@ -31,3 +31,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 > Run server on localhost:5000
 
 `npm run server`<br>
+
+## 2. Connect to MongoDB (007)
+
+> Add connection to MongoDB using mongoose
