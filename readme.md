@@ -35,3 +35,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 2. Connect to MongoDB (007)
 
 > Add connection to MongoDB using mongoose
+
+## 3. Add routes with express router (008)
+
+> Add routes/api files and use express router
