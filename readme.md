@@ -47,3 +47,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 5. Add user registration (010)
 
 > Create user registration logic
+
+## 6. Email password login (011)
+
+> Add user email and password check
