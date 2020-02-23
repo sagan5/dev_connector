@@ -54,4 +54,8 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 
 ## 7. Create the JWT (012)
 
-> Create the JWT (JSON Wen Token)
+> Create the JWT (JSON Web Token)
+
+## 8. JWT authentication (013)
+
+> Add JWT authentication with passport strategy
