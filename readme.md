@@ -51,3 +51,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 6. Email password login (011)
 
 > Add user email and password check
+
+## 7. Create the JWT (012)
+
+> Create the JWT (JSON Wen Token)
