@@ -59,3 +59,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 8. JWT authentication (013)
 
 > Add JWT authentication with passport strategy
+
+## 9. Username validation (014)
+
+> Add validation of username when registering
