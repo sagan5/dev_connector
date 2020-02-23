@@ -63,3 +63,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 9. Username validation (014)
 
 > Add validation of username when registering
+
+## 10. Login/registration validation (015)
+
+> Add further validation of registration and login information
