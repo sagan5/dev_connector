@@ -67,3 +67,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 10. Login/registration validation (015)
 
 > Add further validation of registration and login information
+
+## 11. Create Profile model (017)
+
+> Create Profile Schema for MongoDB
