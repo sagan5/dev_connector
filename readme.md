@@ -79,3 +79,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 13. Create or update profile (019)
 
 > Add create or update profile routes
+
+## 14. Profile validation (020)
+
+> Add validation of profile fields

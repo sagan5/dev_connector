@@ -3,6 +3,8 @@ const router = express.Router();
 const mongoose = require("mongoose");
 const passport = require("passport");
 
+// load validation
+const validProfileInput = require("../../validation/profile");
 // load profile model
 const Profile = require("../../models/Profile");
 // load user profile
@@ -23,6 +25,7 @@ router.get(
     const errors = {};
 
     Profile.findOne({ user: req.user.id })
+      .populate("user", ["name", "avatar"])
       .then(profile => {
         if (!profile) {
           errors.noprofile = "There is no profile for this user";
@@ -37,10 +40,18 @@ router.get(
 // @route   POST api/profile
 // @desc    create or edit user profile
 // @access  private
-router.get(
+router.post(
   "/",
   passport.authenticate("jwt", { session: false }),
   (req, res) => {
+    const { errors, isValid } = validProfileInput(req.body);
+
+    // check validation
+    if (!isValid) {
+      // return any errors with 400 status
+      return res.status(400).json(errors);
+    }
+
     // get fields
     const profileFields = {};
     profileFields.user = req.user.id;
@@ -54,7 +65,7 @@ router.get(
       profileFields.githubusername = req.body.githubusername;
     // skills - split into array
     if (typeof req.body.skills !== "undefined") {
-      profileFields.skils = req.body.skills.split(",");
+      profileFields.skills = req.body.skills.split(",");
     }
     // social
     profileFields.social = {};
