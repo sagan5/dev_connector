@@ -71,3 +71,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 11. Create Profile model (017)
 
 > Create Profile Schema for MongoDB
+
+## 12. Current user profile route (018)
+
+> Create current user profile route
