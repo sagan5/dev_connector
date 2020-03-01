@@ -83,3 +83,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 14. Profile validation (020)
 
 > Add validation of profile fields
+
+## 15. More profile API routes (021)
+
+> Create API routes to get profile info (all profiles, by handle, by ID)
