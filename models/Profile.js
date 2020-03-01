@@ -40,35 +40,25 @@ const ProfileSchema = new Schema({
       title: {
         type: String,
         required: true
-      }
-    },
-    {
+      },
       company: {
         type: String,
         required: true
-      }
-    },
-    {
+      },
       location: {
         type: String
-      }
-    },
-    {
+      },
       from: {
         type: Date,
         required: true
-      }
-    },
-    {
+      },
       to: {
         type: Date
       },
       current: {
         type: String,
         default: false
-      }
-    },
-    {
+      },
       description: {
         type: String
       }
@@ -79,36 +69,26 @@ const ProfileSchema = new Schema({
       school: {
         type: String,
         required: true
-      }
-    },
-    {
+      },
       degree: {
         type: String,
         required: true
-      }
-    },
-    {
+      },
       fieldofstudy: {
         type: String,
         required: true
-      }
-    },
-    {
+      },
       from: {
         type: Date,
         required: true
-      }
-    },
-    {
+      },
       to: {
         type: Date
       },
       current: {
-        type: String,
+        type: Boolean,
         default: false
-      }
-    },
-    {
+      },
       description: {
         type: String
       }

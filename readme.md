@@ -87,3 +87,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 15. More profile API routes (021)
 
 > Create API routes to get profile info (all profiles, by handle, by ID)
+
+## 16. Experience and education routes (022)
+
+> Create experience and education API routes with validation
