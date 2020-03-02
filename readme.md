@@ -91,3 +91,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 16. Experience and education routes (022)
 
 > Create experience and education API routes with validation
+
+## 17. DELETE routes (023)
+
+> Create user/profile/experience/education DELETE routes
