@@ -99,3 +99,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 18. Create Post model (024)
 
 > Create PostSchema for posts
+
+## 19. Add post API route (025)
+
+> Create POST route for post creation with validation
