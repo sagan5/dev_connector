@@ -95,3 +95,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 17. DELETE routes (023)
 
 > Create user/profile/experience/education DELETE routes
+
+## 18. Create Post model (024)
+
+> Create PostSchema for posts
