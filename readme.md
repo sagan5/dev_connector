@@ -103,3 +103,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 19. Add post API route (025)
 
 > Create POST route for post creation with validation
+
+## 20. Add more post routes (026)
+
+> Create GET, DELETE routes for posts
