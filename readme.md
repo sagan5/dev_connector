@@ -107,3 +107,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 20. Add more post routes (026)
 
 > Create GET, DELETE routes for posts
+
+## 21. Add post like/unlike routes (027)
+
+> Create POST routes for liking/unliking post
