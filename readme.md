@@ -115,3 +115,23 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 22. Add comment routes (028)
 
 > Create POST and DELETE routes for post comments
+
+## 23. Implementing React, setting up assets (030/031)
+
+> Run inside project's folder
+
+`npm i -g create-react-app`<br>
+`npm i create-react-app`<br>
+`npm i --save-dev concurrently`<br>
+
+> Add proxy in client/package.json
+
+`"proxy": "http://localhost:5000"`
+
+> Add scripts in package.json
+
+`"client-install": "npm install --prefix client"`<br>
+`"client": "npm start --prefix client"`<br>
+`"dev": "concurrently \"npm run server\" \"npm run client\""`<br>
+
+> Add bootstrap, fontawesome and setup assets
