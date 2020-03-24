@@ -135,3 +135,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 `"dev": "concurrently \"npm run server\" \"npm run client\""`<br>
 
 > Add bootstrap, fontawesome and setup assets
+
+## 24. Add basic layout (032)
+
+> Create Navbar, Landing and Footer components
