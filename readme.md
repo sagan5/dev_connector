@@ -139,3 +139,12 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 24. Add basic layout (032)
 
 > Create Navbar, Landing and Footer components
+
+## 25. Setup React router (033)
+
+> Install React router in client folder
+
+`cd client`<br>
+`npm i react-router-dom`<br>
+
+> Create Login and Register components and add routing
