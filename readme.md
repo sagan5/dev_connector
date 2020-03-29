@@ -168,3 +168,13 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 > Instal classnames and add conditional classes
 
 `npm i classnames`<br>
+
+## 30. Redux setup (039)
+
+> Run in client folder
+
+`npm i redux`<br>
+`npm i react-redux`<br>
+`npm i redux-thunk`<br>
+
+> Redux store and Redux Chrome extension setup
