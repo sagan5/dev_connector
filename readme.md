@@ -148,3 +148,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 `npm i react-router-dom`<br>
 
 > Create Login and Register components and add routing
+
+## 26. Add Register form (034)
+
+> Create Register form with state
