@@ -156,3 +156,9 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 27. Add Login form (035)
 
 > Create Login form with state
+
+## 28. Registration form test (036)
+
+> Install axios and send post request
+
+`npm i axios`<br>
