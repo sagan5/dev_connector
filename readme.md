@@ -162,3 +162,9 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 > Install axios and send post request
 
 `npm i axios`<br>
+
+## 29. Error handling display (037)
+
+> Instal classnames and add conditional classes
+
+`npm i classnames`<br>
