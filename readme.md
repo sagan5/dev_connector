@@ -178,3 +178,8 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 `npm i redux-thunk`<br>
 
 > Redux store and Redux Chrome extension setup
+
+## 31. Redux workflow example (040)
+
+> Create Redux action-reducer workflow example<br>
+> Add propTypes
