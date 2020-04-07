@@ -183,3 +183,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 
 > Create Redux action-reducer workflow example<br>
 > Add propTypes
+
+## 32. Registration and error reducer (041)
+
+> Create registration request and error reducer
