@@ -187,3 +187,11 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 32. Registration and error reducer (041)
 
 > Create registration request and error reducer
+
+## 33. Redux login action - set current user (042)
+
+> Run in client folder
+
+`npm i jwt-decode`<br>
+
+> Create redux login action to set current user and store it's data in localStorage
