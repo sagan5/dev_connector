@@ -195,3 +195,9 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 `npm i jwt-decode`<br>
 
 > Create redux login action to set current user and store it's data in localStorage
+
+## 34. Login form functionality (043)
+
+> Create login functionality and keep user logged in while navigating
+> Change UNSAFE lifecycle method componentWillReceiveProps to SAVE methods
+> Error fix in users API

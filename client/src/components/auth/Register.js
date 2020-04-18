@@ -21,9 +21,17 @@ class Register extends Component {
     this.onSubmit = this.onSubmit.bind(this);
   }
 
-  componentDidUpdate(nextProps) {
-    if (nextProps.erros) {
-      this.setState({ errors: nextProps.errors });
+  // componentWillReceiveProps(nextProps) {
+  //   if (nextProps.errors) {
+  //     this.setState({ errors: nextProps.errors });
+  //   }
+  // }
+
+  static getDerivedStateFromProps(nextProps, prevState) {
+    if (nextProps.errors) {
+      return {
+        errors: nextProps.errors
+      };
     }
   }
 
