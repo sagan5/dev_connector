@@ -201,3 +201,10 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 > Create login functionality and keep user logged in while navigating
 > Change UNSAFE lifecycle method componentWillReceiveProps to SAVE methods
 > Error fix in users API
+
+## 35. Logout functionality (044)
+
+> Create logout function and conditional Navbar links
+> Create check for expired token to logout user automatically
+> Add redirect to Login, Register, Landing components when logged in
+> Change logout anchor to button
