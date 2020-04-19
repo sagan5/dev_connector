@@ -212,3 +212,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 36. TextFieldGroup component (045)
 
 > Create form input fields component
+
+## 37. Profile reducer (046)
+
+> Create profile reducer - get current profile
