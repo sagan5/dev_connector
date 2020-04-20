@@ -216,3 +216,8 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 37. Profile reducer (046)
 
 > Create profile reducer - get current profile
+
+## 38. Dashboard start and spinner (047)
+
+> Add functionality to Dashboard component
+> Create loading Spinner component
