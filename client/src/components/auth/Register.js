@@ -88,6 +88,7 @@ class Register extends Component {
                   type="email"
                   value={this.state.email}
                   onChange={this.onChange}
+                  autocomplete="username"
                   error={errors.email}
                   info="This site uses Gravatar so if you want a profile image, use
                   a Gravatar email"
@@ -98,6 +99,7 @@ class Register extends Component {
                   type="password"
                   value={this.state.password}
                   onChange={this.onChange}
+                  autocomplete="new-password"
                   error={errors.password}
                 />
                 <TextFieldGroup
@@ -106,6 +108,7 @@ class Register extends Component {
                   type="password"
                   value={this.state.password2}
                   onChange={this.onChange}
+                  autocomplete="new-password"
                   error={errors.password2}
                 />
                 <input type="submit" className="btn btn-info btn-block mt-4" />

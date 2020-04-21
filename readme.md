@@ -225,3 +225,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 39. Private Route setup (048)
 
 > Create PrivateRoute component to allow private routes
+
+## 40. CreateProfile component (049)
+
+> Create CreteProfile component for filling info

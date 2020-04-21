@@ -80,6 +80,7 @@ class Login extends Component {
                   name="email"
                   type="email"
                   value={this.state.email}
+                  autocomplete="username"
                   onChange={this.onChange}
                   error={errors.email}
                 />
@@ -88,6 +89,7 @@ class Login extends Component {
                   name="password"
                   type="password"
                   value={this.state.password}
+                  autocomplete="current-password"
                   onChange={this.onChange}
                   error={errors.password}
                 />

@@ -11,6 +11,7 @@ const TextFieldGroup = ({
   info,
   type,
   onChange,
+  autocomplete,
   disabled
 }) => {
   return (
@@ -23,6 +24,7 @@ const TextFieldGroup = ({
         placeholder={placeholder}
         name={name}
         value={value}
+        autoComplete={autocomplete}
         onChange={onChange}
         disabled={disabled}
       />
