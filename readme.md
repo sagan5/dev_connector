@@ -221,3 +221,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 
 > Add functionality to Dashboard component
 > Create loading Spinner component
+
+## 39. Private Route setup (048)
+
+> Create PrivateRoute component to allow private routes
