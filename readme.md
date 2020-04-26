@@ -241,3 +241,8 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 43. Create profile functionality (052)
 
 > Create action to create profile
+
+## 44. Profile buttons, delete account (053)
+
+> Create buttons to edit profile, education, experience functions
+> Create delete account action
