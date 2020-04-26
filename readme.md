@@ -233,3 +233,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 41. Form field components (050)
 
 > Create form field components
+
+## 42. Create Profile form (051)
+
+> Add created form field components to CretteProfile component
