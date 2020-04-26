@@ -229,3 +229,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 40. CreateProfile component (049)
 
 > Create CreteProfile component for filling info
+
+## 41. Form field components (050)
+
+> Create form field components
