@@ -246,3 +246,8 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 
 > Create buttons to edit profile, education, experience functions
 > Create delete account action
+
+## 45. EditProfile component (054)
+
+> Create EditProfile component
+> Use safe componentDidMount instead of unsafe componentWillReceiveProps to set state
