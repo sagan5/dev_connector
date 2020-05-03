@@ -259,3 +259,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 47. AddExperience functionality (056)
 
 > Create addExperience action
+
+## 48. AddEducation component (057)
+
+> Create AddEducation component and addEducation action
