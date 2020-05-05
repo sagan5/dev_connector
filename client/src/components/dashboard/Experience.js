@@ -38,10 +38,10 @@ class Experience extends Component {
         <table className="table">
           <thead>
             <tr>
-              <td>Company</td>
-              <td>Title</td>
-              <td>Years</td>
-              <td></td>
+              <th>Company</th>
+              <th>Title</th>
+              <th>Years</th>
+              <th></th>
             </tr>
           </thead>
           <tbody>{experience}</tbody>

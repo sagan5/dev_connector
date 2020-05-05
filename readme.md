@@ -272,3 +272,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 `npm i react-moment`<br>
 
 > Create Experience component for display and deleteExperience action
+
+## 50. Experience component (059)
+
+> Create Education component for display and deleteEducation action
