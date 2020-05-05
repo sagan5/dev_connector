@@ -263,3 +263,12 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 48. AddEducation component (057)
 
 > Create AddEducation component and addEducation action
+
+## 49. Experience component (058)
+
+> Run in client folder
+
+`npm i moment`<br>
+`npm i react-moment`<br>
+
+> Create Experience component for display and deleteExperience action
