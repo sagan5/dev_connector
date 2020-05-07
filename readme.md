@@ -276,3 +276,8 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 50. Experience component (059)
 
 > Create Education component for display and deleteEducation action
+
+## 51. Profiles component (060)
+
+> Create Profiles component and getProfiles action
+> Add CLEAR_ERRORS for clearing errors from state after successfully submiting information
