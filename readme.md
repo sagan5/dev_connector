@@ -281,3 +281,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 
 > Create Profiles component and getProfiles action
 > Add CLEAR_ERRORS for clearing errors from state after successfully submiting information
+
+## 52. ProfileItem component (061)
+
+> Create ProfileItem component
