@@ -285,3 +285,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 52. ProfileItem component (061)
 
 > Create ProfileItem component
+
+## 53. Profile component (062)
+
+> Create Profile component with it's subcomponents and getProfileByHandle action
