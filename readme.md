@@ -293,3 +293,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 54. ProfileHeader component (063)
 
 > Finish ProfileHeader component
+
+## 55. ProfileAbout and ProfileCreds components (064)
+
+> Finish ProfileAbout and Profile components
