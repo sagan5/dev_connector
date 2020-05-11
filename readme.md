@@ -289,3 +289,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 53. Profile component (062)
 
 > Create Profile component with it's subcomponents and getProfileByHandle action
+
+## 54. ProfileHeader component (063)
+
+> Finish ProfileHeader component
