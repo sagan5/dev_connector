@@ -297,3 +297,9 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 55. ProfileAbout and ProfileCreds components (064)
 
 > Finish ProfileAbout and Profile components
+
+## 56. ProfileGithub component and fixes (065)
+
+> Finish ProfileGithub component
+> Create NotFound component
+> Small fixes

@@ -74,7 +74,7 @@ class ProfileCreds extends Component {
         <div className="col-md-6">
           <h3 className="text-center text-info">Experience</h3>
           {expItems.length > 0 ? (
-            <ul className="list-group">{expItems}></ul>
+            <ul className="list-group">{expItems}</ul>
           ) : (
             <p className="center">No Experience Listed</p>
           )}
@@ -82,7 +82,7 @@ class ProfileCreds extends Component {
         <div className="col-md-6">
           <h3 className="text-center text-info">Education</h3>
           {eduItems.length > 0 ? (
-            <ul className="list-group">{eduItems}></ul>
+            <ul className="list-group">{eduItems}</ul>
           ) : (
             <p className="center">No Education Listed</p>
           )}
