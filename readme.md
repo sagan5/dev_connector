@@ -316,3 +316,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 
 > Create getPosts action
 > Create PostFeed component
+
+## 60. PostItem component (069)
+
+> Create PostItem component
