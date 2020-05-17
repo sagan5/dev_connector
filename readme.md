@@ -307,3 +307,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 57. addPost action (066)
 
 > Create addPost action and postReducer
+
+## 58. PostForm component (067)
+
+> Create PostForm component
