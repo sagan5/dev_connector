@@ -320,3 +320,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 60. PostItem component (069)
 
 > Create PostItem component
+
+## 61. post actions (070)
+
+> Creat deletePost, addLike, removeLike actions
