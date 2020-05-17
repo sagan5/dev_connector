@@ -303,3 +303,7 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 > Finish ProfileGithub component
 > Create NotFound component
 > Small fixes
+
+## 57. addPost action (066)
+
+> Create addPost action and postReducer
