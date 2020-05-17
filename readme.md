@@ -311,3 +311,8 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 58. PostForm component (067)
 
 > Create PostForm component
+
+## 59. getPosts action, PostFeed component (068)
+
+> Create getPosts action
+> Create PostFeed component
