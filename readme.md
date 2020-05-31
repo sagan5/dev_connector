@@ -332,3 +332,8 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 ## 63. Comment component (072)
 
 > Create Comment component and addComment action
+
+## 64. Comment feed (073)
+
+> Create CommentFeed and CommentItem components
+> Create deleteComment action
