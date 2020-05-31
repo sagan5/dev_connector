@@ -87,7 +87,7 @@ class PostItem extends Component {
   }
 }
 
-PostItem.defaulProps = {
+PostItem.defaultProps = {
   showActions: true
 };
 
