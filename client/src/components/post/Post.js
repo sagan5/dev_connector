@@ -4,10 +4,9 @@ import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
 import PostItem from "../posts/PostItem";
 import CommentForm from "./CommentForm";
-import CommentFed from "./CommentFeed";
+import CommentFeed from "./CommentFeed";
 import Spinner from "../common/Spinner";
 import { getPost } from "../../actions/postActions";
-import CommentFeed from "./CommentFeed";
 
 class Post extends Component {
   componentDidMount() {

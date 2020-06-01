@@ -337,3 +337,5 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 
 > Create CommentFeed and CommentItem components
 > Create deleteComment action
+
+## 65. Securing keys (074)
