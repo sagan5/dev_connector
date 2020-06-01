@@ -339,3 +339,8 @@ https://www.udemy.com/course/mern-stack-front-to-back/
 > Create deleteComment action
 
 ## 65. Securing keys (074)
+
+## 66. Post build deployment (075)
+
+> Add heroku-postbuild script
+> Set static folder in production
